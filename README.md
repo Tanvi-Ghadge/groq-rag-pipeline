@@ -1,4 +1,6 @@
 Hybrid RAG powered by Groq:
+
+
 This project implements a sophisticated Retrieval-Augmented Generation (RAG) system designed to answer complex questions by drawing information directly from a set of proprietary academic documents (e.g., PDFs). It utilizes a hybrid search approach for maximized information retrieval and integrates with the high-speed Groq API for ultra-low latency LLM responses.
 
 Key Features:
